@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>berrybrew</id>
-    <version>1.2.3</version>
+    <version>1.2.6</version>
     <packageSourceUrl>https://github.com/camilohe/berrybrew.install</packageSourceUrl>
     <owners>camilohe</owners>
 
