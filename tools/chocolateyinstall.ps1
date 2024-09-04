@@ -11,7 +11,7 @@ $packageArgs = @{
 
     softwareName   = 'berrybrew*'
 
-    checksum       = 'A7B09442E1407FA66A6F278699A311FB96FEA9D2771C7402C85745526E5FFCA3'
+    checksum       = '0B19F94A135FC9964DD94E4D5A11594812877785E95E870C1894736B272E093C'
     checksumType   = 'sha256' 
 }
 
